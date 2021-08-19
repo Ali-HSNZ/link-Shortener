@@ -1,0 +1,171 @@
+.feature{
+	display: block
+}
+.feature-box-img-parent{
+	display: flex;
+}
+.Ability{
+	display: block;
+}
+.footer-nav{
+	display:flex;
+}
+.footer-logo{
+	display: none;
+}
+@media only screen and (min-width: 320px){
+	.feature{
+		display: block;
+	}
+	.feature-box-img-parent{
+		display: flex;
+	}
+	.Ability{
+		display:block;
+	}
+	.footer-logo{
+		
+		display: block;
+	}
+	.footer-nav{
+		display: block;
+	}
+}
+@media only screen and (min-width: 460px){
+	.feature{
+		display: block;
+	}
+	.feature-box-img-parent{
+		display: flex;
+	}
+	.Ability{
+		display: block;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 600px){
+	.feature{
+		display: block;
+	}
+	.feature-box-img-parent{
+		display: flex;
+	}
+	.Ability{
+		display: block;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 720px){
+	.feature{
+		display: block;
+	}
+	.feature-box-img-parent{
+		display: flex;
+	}
+	.Ability{
+		display: block;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 800px){
+	.feature{
+		display: block;
+	}
+	.Ability{
+		display: flex;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 960px){
+	.feature{
+		display: flex;
+	}
+	.Ability{
+		display: flex;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 1080px){
+	.feature{
+		display: flex;
+	}
+	.Ability{
+		display: flex;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 1180px){
+	.feature{
+		display:flex;
+	}
+	.Ability{
+		display: flex;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+@media only screen and (min-width: 1260px){
+	.feature{
+		display:flex;
+	}
+	.Ability{
+		display: flex;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}	
+}
+@media only screen and (min-width:1366px){
+	.feature{
+		display: flex;
+	}
+	.Ability{
+		display: flex;
+	}
+	.footer-nav{
+		display: block;
+	}
+	.footer-logo{
+		display: block;
+	}
+}
+
+
+

@@ -1,0 +1,61 @@
+.col_1{
+	width: 8.33%;
+	height: auto;
+	float: left;
+}
+.col_2{
+	width: 16.66%;
+	height: auto;
+	float: left;
+}
+.col_3{
+	width: 24.99%;
+	height: auto;
+	float: left;
+}
+.col_4{
+	width: 33.32%;
+	height: auto;
+	float: left;
+}
+
+.col_5{
+	width:41.65%;
+	height: auto;
+	float: left;
+}
+.col_6{
+	width: 49.98%;
+	height: auto;
+	float: left;
+}
+.col_7{
+	width: 58.31%;
+	height: auto;
+	float: left;
+}
+.col_8{
+	width: 66.64%;
+	height: auto;
+	float: left;
+}
+.col_9{
+	width: 74.97%;
+	height: auto;
+	float: left;
+}
+.col_10{
+	width: 83.3%;
+	height: auto;
+	float: left;
+}
+.col_11{
+	width: 91.63%;
+	height: auto;
+	float: left;
+}
+.col_12{
+	width: 100%;
+	height: auto;
+	float: left;
+}
